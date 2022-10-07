@@ -1,2 +1,2 @@
 <?php
-echo "docer running";
+echo "docer running after cd";
